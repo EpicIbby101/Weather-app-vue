@@ -1,24 +1,15 @@
-# vue-weather
+# Weather App
+A full-stack weather app using Vue.js and Weather API to fetch weather data for searched locations.
 
-## Project setup
-```
-npm install
-```
+This is my the first project I've built for VueJS as a means to test my understanding of this framework
+## Features
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Altering Background depending on whether it's hot or cold
+- Search a country or city and the API will fetch the weather data for that location
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Demo
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Click the link below to view the deployed app:
+
+https://weather-app-vue-faea0.web.app/
